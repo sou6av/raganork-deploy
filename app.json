@@ -1,11 +1,11 @@
 {
-    "name": "Raganork",
+    "name": "𝗚𝗼𝘂𝗿𝗮𝘃",
     "description": "Raganork bot - Extra featured, fully customisable WhatsApp Public/User bot.",
-    "logo": "https://www.linkpicture.com/q/rgnk.jpg",
+    "logo": "https://telegra.ph/file/56f641c3cf138aa7f27b2.jpg",
     "keywords": ["WhatsApp", "Userbot", "Raganork", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/souravkl11/Raganork",
-    "website":   "https://bit.ly/Raganork",
-    "success_url": "https://bit.ly/Raganork",
+    "repository": "https://github.com/darkdevil3610/Raganork",
+    "website":   "https://instagram.com/dark_devil_3609",
+    "success_url": "https://instagram.com/dark_devil_3609",
     "stack": "container",
     "env": {
         "RAGANORK_CODE": {
@@ -44,17 +44,17 @@
         "ALL_IMG": {
             "description": "Give an image link for your bot!",
             "required": true,
-            "value": "https://i.pinimg.com/originals/0e/c8/8c/0ec88ca1469125fc11b4ce76830602f4.jpg"
+            "value": "https://telegra.ph/file/56f641c3cf138aa7f27b2.jpg"
         },
         "DIALOGUE": {
             "description": "Give an image link for your bot!",
             "required": true,
-            "value": "Killadism never ends! (Change this)"
+            "value": "Killadism never ends! "
         },
         "ALL_CAPTION": {
             "description": "Give your caption here. Example: Made by Raganork.",
             "required": true,
-            "value": "*YOUR CAPTION HERE*"
+            "value": "*✪ɪͥᴛͭsᷤᴍͫᴇͤ☚⃟Gourav ՏIᖇ*"
         },
         "VERIFIED": {
             "description": "Jid given above the verified tick. Use 0 for official WhatsApp",
@@ -131,7 +131,7 @@
         "V_HEADER": {
             "description": "Shows on top of verified tick. Type any words here.",
             "required": true,
-            "value": "Type antything here"
+            "value": "𝗚𝗼𝘂𝗿𝗮𝘃"
         },
         "NO_ONLINE": {
             "description": "Type true if you don't want to appear online.",
@@ -141,12 +141,12 @@
         "IG": {
             "description": "Your instagram link(optional)!",
             "required": false,
-            "value": "https://instagram.com/username"
+            "value": "https://instagram.com/dark_devil_3609"
         },
         "OWNER_NAME": {
             "description": "Owner name used in many commands! Type your name here.",
             "required": false,
-            "value": "𝗢𝘄𝗻𝗲𝗿 𝗻𝗮𝗺𝗲 𝗵𝗲𝗿𝗲"
+            "value": "𝗚𝗼𝘂𝗿𝗮𝘃"
         },
         "TAG_HEADER": {
             "description": "Owner name used in many commands! Type your name here.",
@@ -166,7 +166,7 @@
         "BOT_NAME": {
             "description": "Your bot's name. This is very important!",
             "required": false,
-            "value": "𝓑𝓞𝓣 𝓝𝓐𝓜𝓔 𝓗𝓔𝓡𝓔"
+            "value": "𝗚𝗼𝘂𝗿𝗮𝘃"
              
         }
     },
