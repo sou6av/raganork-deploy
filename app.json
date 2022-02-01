@@ -1,6 +1,6 @@
 {
-    "name": "Raganork",
-    "description": "Raganork bot - Extra featured, fully customisable WhatsApp Public/User bot.",
+    "name": "Ragnarok",
+    "description": "Ragnarok- Extra featured, fully customisable WhatsApp Public/User bot.",
     "logo": "https://www.linkpicture.com/q/rgnk.jpg",
     "keywords": ["WhatsApp", "Userbot", "Raganork", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/souravkl11/Raganork",
@@ -166,7 +166,7 @@
         "BOT_NAME": {
             "description": "Your bot's name. This is very important!",
             "required": false,
-            "value": "𝓑𝓞𝓣 𝓝𝓐𝓜𝓔 𝓗𝓔𝓡𝓔"
+            "value": "Reethu"
              
         }
     },
