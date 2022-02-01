@@ -1,15 +1,15 @@
 {
-    "name": "Ragnarok",
-    "description": "Ragnarok- Extra featured, fully customisable WhatsApp Public/User bot.",
-    "logo": "https://www.linkpicture.com/q/rgnk.jpg",
-    "keywords": ["WhatsApp", "Userbot", "Raganork", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/souravkl11/Raganork",
-    "website":   "https://bit.ly/Raganork",
-    "success_url": "https://bit.ly/Raganork",
+    "name": "Who i am",
+    "description": "WHO I AM'S BOT - Extra featured BOT",
+    "logo": "https://i.imgur.com/6PSTLi2.jpeg",
+    "keywords": ["WhatsApp", "Userbot", "who i am", "WhatsAsena", "bot", "api", "ai"],
+    "repository": "https://github.com/Reethu277.json",
+    "website":   "Coming soon",
+    "success_url": "https://github.com/Reethu277.json",
     "stack": "container",
     "env": {
-        "RAGANORK_CODE": {
-            "description": "Raganork code (QR scan cheythappo kittiya code). Type here yours Raganork code.",
+        "WHO I AM [ASENA CODE]": {
+            "description": "ASENA code (QR scan cheyyumbol kittunna code). Type here yours asena code.",
             "required": true
         },
        "C_CODE": {
@@ -37,22 +37,22 @@
             "value":"true"
 },
         "BGM_FILTER": {
-            "description": "If you likes bgm you can write 'true'. Otherwise false",
+            "description": "[BGM venengil true kodukkuka vendengil false] If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
             "value": "true"
         },
         "ALL_IMG": {
-            "description": "Give an image link for your bot!",
+            "description": BOT INU LOGO SET CHEYYAN URL KODUKKUKA",
             "required": true,
             "value": "https://i.pinimg.com/originals/0e/c8/8c/0ec88ca1469125fc11b4ce76830602f4.jpg"
         },
         "DIALOGUE": {
             "description": "Give an image link for your bot!",
             "required": true,
-            "value": "Killadism never ends! (Change this)"
+            "value": "WHO I AM SER UYIR [CHANGE THIS]"
         },
         "ALL_CAPTION": {
-            "description": "Give your caption here. Example: Made by Raganork.",
+            "description": "Give your caption here. Example: Made by Who i am.",
             "required": true,
             "value": "*YOUR CAPTION HERE*"
         },
@@ -83,15 +83,15 @@
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 91xxxx && 91xxxx-1xxx or 91xxxxx,91xxxx...",
             "required": false,
-            "value": "919074309534"
+            "value": "91xxxx"
         },
         "WORK_TYPE": {
-            "description": "Raganork bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "Who i am bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
         "HEROKU_APP_NAME": {
-            "description": "Heroku APP Name.",
+            "description": "HEROKU NAME KODUKUKA🙂.",
             "required": true
         },
         "REMOVE_BG_API_KEY": {
@@ -111,7 +111,7 @@
         "SONGD": {
             "description": "Customizable song uploading message!",
             "required": false,
-            "value": "_Uploading song.._"
+            "value": "_Uploading your song.._"
         },
         "KICKME_MESSAGE": {
             "description": "Customizable Kickme Message! Use => default, to change back.",
@@ -126,7 +126,7 @@
         "ALL_NUMBER": {
             "description": "Type your number here",
             "required": false,
-            "value": "wa.me/919074309534"
+            "value": "wa.me/91xxxxxx"
         },
         "V_HEADER": {
             "description": "Shows on top of verified tick. Type any words here.",
