@@ -1,15 +1,15 @@
 {
-    "name": "Raganork",
-    "description": "Raganork bot - Extra featured, fully customisable WhatsApp Public/User bot.",
-    "logo": "https://www.linkpicture.com/q/rgnk.jpg",
+    "name": "WIA-BOT",
+    "description": "WIA-BOT USERBOT.",
+    "logo": "https://i.imgur.com/Iag22tM.jpeg",
     "keywords": ["WhatsApp", "Userbot", "Raganork", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/souravkl11/Raganork",
     "website":   "https://bit.ly/Raganork",
     "success_url": "https://bit.ly/Raganork",
     "stack": "container",
     "env": {
-        "RAGANORK_CODE": {
-            "description": "Raganork code (QR scan cheythappo kittiya code). Type here yours Raganork code.",
+        "WIA_CODE": {
+            "description": "WIA code (QR scan cheythappo kittiya code). Type here yours Raganork code.",
             "required": true
         },
        "C_CODE": {
